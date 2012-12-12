@@ -249,8 +249,8 @@ $app_name = idx($app_info, 'name', '');
     </header>
 
     <section id="get-started">
-      <p>Welcome to your Facebook app, running on <span>heroku</span>!</p>
-      <a href="https://devcenter.heroku.com/articles/facebook" target="_top" class="button">Learn How to Edit This App</a>
+      <p>Welcome to your Facebook app "Marjorie"!</p>
+      <!--<a href="https://devcenter.heroku.com/articles/facebook" target="_top" class="button">Learn How to Edit This App</a>-->
     </section>
 
     <?php
@@ -259,6 +259,8 @@ $app_name = idx($app_info, 'name', '');
 
     <section id="samples" class="clearfix">
       <h1>Examples of the Facebook Graph API</h1>
+      <h3>I love you Marjorie</h3>
+      <h3>Happy Monthsary!!! 12/12/12</h3>
 
       <div class="list">
         <h3>A few of your friends</h3>
